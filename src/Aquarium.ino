@@ -1,11 +1,11 @@
-#define BLYNK_TEMPLATE_ID "TMPL6XTSvZsba"
+#define BLYNK_TEMPLATE_ID "YOUR_BLYNK_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "Aquarium"
-#define BLYNK_AUTH_TOKEN "rLZ5n4oB1b28dsDyatmwZNFAKrM--iq0"
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN "
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Daffadandi";
-char pass[] = "Daffabulet";
+char ssid[] = "SSID";
+char pass[] = "PASS";
 
 bool fetch_blynk_state = true;  //true or false
 
